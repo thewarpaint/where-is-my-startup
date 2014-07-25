@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.3366071, 37.8143577]
+        "coordinates": ["-122.3366071", "37.8143577"]
       },
       "properties": {
         "name": "Mozilla",
